@@ -1,0 +1,6 @@
+Well, this is going to be my intro. This book intended to be a knowledge trasfer, practical with lots of examples and a simple guide through to load & performance testing. L&P goes hand in hand with functional testing, called also quality assurance; if you are reading this, most likely you work either in operation or QA. Why operations? Because of monitoring, likely you need to be able to smoke testing. You plug a device in the power line, you don't want to see smoke, there comes the naming.
+
+I assume nothing. Thefore if something is boring for you, skip ahead. I write this book as markdown on github, easy to get indexed and to be found. If not, I'll publish it later on as github pages or, ... I'll figure it out. It is intended to be an alternative landing point to slashdot... er, no... to stackoverflow. (I spoiled my age) xD
+
+Ah, yes... what about the name of the repo? This is not intended to be like the Hitchhikers' Guide to the Galaxy, but a guide to "unshit yourself", to remove bottlenecks from your product, or to take down the internet (if you have a lot of computing resources). Wow! Google has removed results regarding it... anyhow, this comes from Portoguese: Desenmerda-te
+(my boss at VF-Group was portoguese, such word became what I was famous for, at my job)
